@@ -8,7 +8,7 @@ public class Ejercicio3 {
 		/*Ejercicio 3:
 		 * Escribir un programa que pida un número al usuario e indique mediante
 		  un literal booleano  si el número es par*/
-		
+		 
 		Scanner sc=new Scanner (System.in);
 		
 		System.out.println("Dime un número");

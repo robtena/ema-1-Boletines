@@ -11,7 +11,7 @@ public class Ejercicio9 {
 	Scanner sc = new Scanner (System.in);
 	
 	int num1, num2, num3;
-	
+	 
 		System.out.println("Dime el primer número.");
 	
 	num1 = sc.nextInt();

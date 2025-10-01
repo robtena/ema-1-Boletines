@@ -9,7 +9,7 @@ public class Ejercicio5 {
 		
 		Escribe una aplicación que pida al usuario dos números enteros y muestre true si ambos
 		números son distintos entre sí o alguno de ellos es cero; y false en caso contrario.*/
-		
+		 
 		Scanner sc = new Scanner (System.in);
 		
 		System.out.println("Introduce el primero número entero");

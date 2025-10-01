@@ -7,7 +7,7 @@ public class Ejercicio1 {
 		
 		/*Ejercicio 1: Preguntar dos notas al alumno y calcular la media. Mostrar la media y a qué corresponde su
 		calificación (insuficiente, suficiente, bien, notable, sobresaliente).*/
-		
+		 
 		
 		Scanner sc=new Scanner (System.in);
 		

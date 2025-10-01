@@ -10,7 +10,7 @@ Diseñar una aplicación que solicite al usuario un número e indique si es par 
 Se quiere mostrar como resultado final: “es par” o “es impar”*/
 		
 		Scanner sc = new Scanner (System.in);
-		
+		 
 			System.out.println("Introduce tu número");
 			
 		int num1 = sc.nextInt();

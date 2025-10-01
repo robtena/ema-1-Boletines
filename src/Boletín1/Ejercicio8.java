@@ -10,7 +10,7 @@ public class Ejercicio8 {
 		
 		Scanner sc = new Scanner (System.in);
 			System.out.println("Indica el primer número");
-			
+			 
 		int num1, num2;
 		
 		num1 = sc.nextInt();

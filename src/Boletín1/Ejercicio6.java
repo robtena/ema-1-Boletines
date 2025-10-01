@@ -8,7 +8,7 @@ public class Ejercicio6 {
 		/*Ejercicio 6:
 		Realiza un programa que informe al usuario (mostrando true) si un número 
 		es múltiplo de otro número. Ambos números se piden por teclado.*/
-
+ 
 		Scanner sc = new Scanner (System.in); //Preparamos la herramienta para leer la entrada del usuario
 			
 			System.out.println("Introduce el primer número");

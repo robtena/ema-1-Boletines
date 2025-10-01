@@ -7,7 +7,7 @@ public class Ejercicio2 {
 
 		/*Ejercicio 2:
 	 	Realizar una aplicación que solicite al usuario su edad y le indique si es mayor de edad*/
-		 
+		  
 		
 		Scanner sc=new Scanner (System.in);
 

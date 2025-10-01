@@ -14,7 +14,7 @@ a la biblioteca (para realizar algún trabajo entregar los libros, etcétera). S
 (mediante un booleano) si llueve, si ha finalizado las tareas y si necesita ir a la biblioteca. El
 algoritmo debe mostrar mediante un booleano (TRUE o FALSE) si es posible que se le otorgue el
 permiso para ir a la calle.*/
-		
+		 
 		Scanner sc = new Scanner (System.in);
 		
 		System.out.println("Hola terrícola ¿Está lloviendo actualmente? (true/false)");
